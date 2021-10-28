@@ -1,4 +1,4 @@
-#Insertion Sort 
+# Insertion Sort 
 
 The functions runs four times, each time sorting
 an array of n size. It outputs the time needed
